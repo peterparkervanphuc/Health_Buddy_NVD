@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+healthbuddy-web/node_modules/
+healthbuddy-web/dist/
+
+.DS_Store
